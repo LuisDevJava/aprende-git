@@ -26,3 +26,4 @@ Luego vas a continuar con el [Ejercicio 2](pull-request.md) y sumarte a esta lis
 
 - @tunombredeusuario
 - @dwarlyndut
+- @LuisDevJava
